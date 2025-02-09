@@ -1,0 +1,1 @@
+Simply basic linear regression model using batch gradient descent on simple dataset. The objective is try to understand how gradient descent help optimized the cost function by updating the model parameters.
